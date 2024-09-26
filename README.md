@@ -197,7 +197,7 @@ void test_movimiento_invalido() {
 }
 ```
 
-## Question #2 - {theme} (99 points)
+## Question #2 - {template de funciones} (7 points)
 
 Implementa una función plantilla llamada `shift_right` que acepte un contenedor como parámetro (puede ser un `std::array`, `std::vector` o un arreglo normal de C++). La función debe desplazar todos los elementos del contenedor hacia la derecha un número determinado de posiciones, y los elementos que sobrepasen el final deben reaparecer al inicio del contenedor.
 
